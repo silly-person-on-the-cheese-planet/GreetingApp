@@ -19,7 +19,7 @@
 ## Установка
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ваш_пользователь/greeting-app.git
+   git clone https://github.com/ваш_пользователь/GreetingApp.git
    ```
 2. Откройте проект в Android Studio.
 3. Синхронизируйте Gradle.
